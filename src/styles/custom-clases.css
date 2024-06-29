@@ -1,0 +1,12 @@
+.bg-light {
+  background-color: #ffffff;
+}
+
+.text-dark {
+ color: #7e7e7e;
+}
+
+.custom-image {
+  padding: 10px;
+  border-radius: 20px;
+}

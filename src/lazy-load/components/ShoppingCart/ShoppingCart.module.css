@@ -1,0 +1,15 @@
+.shopping-cart-position {
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.shopping-cart-size {
+  width: 200px;
+  min-height: 1000vh;
+}
+
+.shopping-cart {
+  background-color: #2b2f3a;
+  padding: 0.5rem;
+}
